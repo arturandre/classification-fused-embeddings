@@ -96,11 +96,11 @@ The framework evaluates clustering and classification performance using:
 ---
 
 ## **Key Results**
-| **Dataset**      | **Prompt Strategy** | **Accuracy** | **ARI**  | **NMI**  |
-|-------------------|---------------------|--------------|----------|----------|
-| **MNIST**        | Task-Specific       | 85.00%       | 0.7819   | 0.8964   |
-| **CIFAR-10**     | Grouped             | 62.32%       | 0.6523   | 0.7138   |
-| **CIFAR-100-1**  | Image-Only          | 10.73%       | 0.5885   | 0.7487   |
+| **Dataset**      | **Prompt Strategy** | **Accuracy ↑** | **ARI ↑** | **NMI ↑** |
+|------------------|---------------------|----------------|-----------|-----------|
+| **CIFAR-10**     | Task-Specific       | 87.92%         | 0.8591    | 0.8964    |
+| **CIFAR-10**     | Grouped             | 62.32%         | 0.6523    | 0.7138    |
+| **CIFAR-10**     | Image-Only          | 09.93%         | 0.5885    | 0.7487    |
 
 ---
 
