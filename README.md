@@ -114,8 +114,3 @@ If you use this code, please cite our work:
   year={2025}
 }
 ```
-
----
-
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
