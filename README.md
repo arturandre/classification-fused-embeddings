@@ -14,7 +14,7 @@ This repository implements a novel framework for leveraging CLIP-based multimoda
 
 ---
 
-## **Installation (TODO)**
+## **Installation**
 1. Clone this repository:
    ```bash
    git clone https://github.com/arturandre/classification-fused-embeddings.git
@@ -104,7 +104,7 @@ The framework evaluates clustering and classification performance using:
 
 ---
 
-## **Citation (TODO)**
+## **Citation**
 If you use this code, please cite our work:
 ```bibtex
 @article{Oliveira2025,
