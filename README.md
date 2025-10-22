@@ -107,10 +107,14 @@ The framework evaluates clustering and classification performance using:
 ## **Citation**
 If you use this code, please cite our work:
 ```bibtex
-@article{Oliveira2025,
-  title={Improving Image Classification Tasks using Fused Embeddings and Multimodal Models},
-  author={Artur A. Oliveira, Mateus Espadoto, R. Hirata Jr., Roberto M. Cesar Jr.},
-  journal={Journal of Multimodal Learning},
-  year={2025}
+@inproceedings{oliveira2025improving,
+  author    = {Artur A. Oliveira and Mateus Espadoto and Roberto Hirata Jr. and Roberto M. Cesar Jr.},
+  title     = {Improving Image Classification Tasks Using Fused Embeddings and Multimodal Models},
+  booktitle = {Proceedings of VISIGRAPP (2: VISAPP) 2025},
+  volume    = {232},
+  pages     = {232--241},
+  year      = {2025},
+  publisher = {SciTePress},
+  url       = {https://www.scitepress.org/Papers/2025/133656/133656.pdf}
 }
 ```
